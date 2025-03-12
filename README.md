@@ -1,13 +1,13 @@
-# class-cpp-container-template
+# floyd-warshall-cpp-container
 
 ## Build
 
 ```zsh
-docker build -t simple-class-cpp .
+docker build -t floyd-warshall-cpp .
 ```
 
 ## Run
 
 ```zsh
-docker run --rm simple-class-cpp
+docker run --rm floyd-warshall-cpp
 ```
